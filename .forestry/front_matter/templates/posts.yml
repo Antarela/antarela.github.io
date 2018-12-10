@@ -1,0 +1,40 @@
+---
+label: Aa
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: author
+  label: Author
+  config:
+    required: true
+  default: 'Antarela'
+- type: datetime
+  name: date
+  label: Date
+  hidden: false
+  config:
+    required: true
+- type: text
+  name: linktitle
+  label: Link
+  config:
+    required: true
+- type: text
+  name: description
+  label: Description
+  config:
+    required: false
+- type: number
+  name: weight
+  label: Order
+  config:
+    required: false
+  default: '1'
+pages:
+- content/posts/creating-a-new-theme.md
