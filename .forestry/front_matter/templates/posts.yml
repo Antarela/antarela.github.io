@@ -13,7 +13,7 @@ fields:
   label: Author
   config:
     required: true
-  default: 'Antarela'
+  default: Antarela
 - type: datetime
   name: date
   label: Date
@@ -36,5 +36,3 @@ fields:
   config:
     required: false
   default: '1'
-pages:
-- content/posts/creating-a-new-theme.md
