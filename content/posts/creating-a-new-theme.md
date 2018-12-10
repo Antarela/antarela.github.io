@@ -1,6 +1,6 @@
 ---
 author: "Antarela"
-date: 2018-12-10
+date: "2018-12-10"
 linktitle: Creating a New Theme
 title: Creating a New Theme
 description: This tutorial will show you how to create a simple theme in Hugo.

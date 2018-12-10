@@ -12,6 +12,7 @@ bio = ""
 copyright = ""
 customCSS = []
 customJS = []
+dateFormat = "02.01.2006 15:04"
 description = ""
 disqusShortname = ""
 enableDisqus = false
