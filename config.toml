@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "ru-ru"
+title = "Antarela's site"
+theme = "hugo-theme-minos"
