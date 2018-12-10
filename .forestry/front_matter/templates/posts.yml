@@ -36,5 +36,3 @@ fields:
   config:
     required: false
   default: '1'
-pages:
-- content/posts/creating-a-new-theme.md
