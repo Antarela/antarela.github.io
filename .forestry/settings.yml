@@ -7,7 +7,6 @@ sections:
 - type: document
   path: conig.toml
   label: nastrojki sajia
-  match: "**/*"
 - type: directory
   path: content/posts
   label: Pages
