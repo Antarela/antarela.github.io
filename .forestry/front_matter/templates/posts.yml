@@ -27,7 +27,7 @@ fields:
     required: true
 - type: text
   name: description
-  label: Description
+  label: Description (описание)
   config:
     required: false
 - type: number
