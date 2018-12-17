@@ -36,3 +36,5 @@ fields:
   config:
     required: false
   default: '1'
+pages:
+- content/posts/fepo.md
