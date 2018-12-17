@@ -1,13 +1,15 @@
 ---
 label: Posts
 hide_body: false
-is_partial: false
+is_partial: true
+display_field: description
 fields:
 - type: text
   name: title
   label: Title
   config:
     required: true
+  default: Пробный сайтик
 - type: text
   name: author
   label: Author
