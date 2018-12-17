@@ -9,7 +9,7 @@ fields:
   label: Title
   config:
     required: true
-  default: Пробный сайтик
+  default: ''
 - type: text
   name: author
   label: Author
