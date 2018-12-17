@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: conig.toml
+  path: config.toml
   label: nastrojki sajia
 - type: directory
   path: content/posts
