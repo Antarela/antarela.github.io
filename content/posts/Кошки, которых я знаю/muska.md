@@ -1,0 +1,8 @@
++++
+date = "2018-12-21T13:46:47+03:00"
+draft = true
+illyustraciya_dlya_posleduyushego_teksta = "/uploads/img-preset-3  .jpg"
+tegi_1 = []
+tekstovaya_oblast_1 = "Коридорная (подъездная) кошка"
+
++++
