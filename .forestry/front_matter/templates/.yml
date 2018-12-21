@@ -1,0 +1,24 @@
+---
+label: Мои кошки
+hide_body: false
+is_partial: false
+fields:
+- type: include
+- type: file
+  name: illyustraciya_dlya_posleduyushego_teksta
+  label: Иллюстрация для последующего текста
+  description: '111'
+  default: "/uploads/1184232059_rainbows_in_wintertime_by_mree.jpg"
+- type: tag_list
+  name: tegi_1
+  label: теги 1
+  description: ключевые слова
+  hidden: false
+- type: textarea
+  name: tekstovaya_oblast_1
+  label: Текстовая область 1
+  description: Пост
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
