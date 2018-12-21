@@ -32,6 +32,6 @@ fields:
     3. Кошки моего города
     4. Кошки моих читателей
 pages:
-- content/posts/Мои кошки/iriska.md
 - content/posts/Кошки, которых я знаю/muska.md
+- content/posts/Мои кошки/iriska.md
 - content/posts/Мои кошки/tisha.md
