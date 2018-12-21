@@ -3,7 +3,7 @@ googleAnalytics = ""
 hasCJKLanguage = false
 languageCode = "ru"
 theme = "hugo-theme-cactus-plus"
-title = "Antarela's site"
+title = "Мурмелад"
 [params]
 about = ""
 archive = ""
@@ -23,7 +23,7 @@ enableSummary = true
 enableToc = true
 enableTwitterCard = true
 facebook = ""
-home = ""
+home = "Home"
 iconFont = "font-awesome"
 newerPosts = ""
 olderPosts = ""
